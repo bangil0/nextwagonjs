@@ -53,7 +53,7 @@ You can import the script inside the body tag.
 </head>
 <body>
     <form action="" method="post">
-        <input error="wkwkw" id="testInput" type="text" placeholder="text">
+        <input id="testInput" type="text" placeholder="text">
         <span error="testInput"></span>
 
         <button type="submit">Login</button>
