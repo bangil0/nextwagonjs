@@ -76,7 +76,7 @@ supported input type :
  * file
  * radio
  * number
-and also textarea.
+and also textarea tag.
 
 ## Contributing
 You can create new pull requests <a href="https://github.com/fauzan121002/nwjs/pulls">here</a>
