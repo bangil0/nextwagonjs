@@ -57,7 +57,7 @@ You can import the script inside the body tag.
 
         <button type="submit">Login</button>
     </form>    
-    <script src="https://rawcdn.githack.com/fauzan121002/nwjs/4f297e676b946058d042f949abf5c5078503c6ea/freeview.js"></script>
+    <script src="https://rawcdn.githack.com/fauzan121002/nwjs/1ed86edaf5ade72454d03dae3fad3d38baf44130/nw.js"></script>
 </body>
 </html>
 ```
