@@ -53,7 +53,8 @@ You can import the script inside the body tag.
 </head>
 <body>
     <form action="" method="post">
-        <input type="text" placeholder="text">
+        <input error="wkwkw" id="testInput" type="text" placeholder="text">
+        <span error="testInput"></span>
 
         <button type="submit">Login</button>
     </form>    
@@ -73,7 +74,8 @@ supported input type :
  * password
  * checkbox
  * file
-
+ * radio
+ * number
 and also textarea.
 
 ## Contributing
