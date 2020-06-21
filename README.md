@@ -67,6 +67,15 @@ Then just add "validate" attribute in your form tag
     <form action="" method="post" validate>
 ```
 
+supported input type :
+ * email
+ * text
+ * password
+ * checkbox
+ * file
+
+and also textarea.
+
 ## Contributing
 You can create new pull requests <a href="https://github.com/fauzan121002/nwjs/pulls">here</a>
 
