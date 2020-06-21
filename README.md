@@ -39,7 +39,7 @@
 * [License](#license)
 
 ## Usage
-You can see the example usage <a href="https://github.com/fauzan121002/nwjs/blob/master/example/index.html">here</a>
+You can see the example usage <a href="https://github.com/fauzan121002/nwjs/blob/master/examples/index.html">here</a>
 
 ### How to use
 You can import the script inside the body tag.
