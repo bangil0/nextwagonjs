@@ -3,7 +3,7 @@
 </p>
 
 
- # Nw.js (Next Wagon.js) is A Lighweight Javascript Library for Form Validation
+ # Nw.js (Next Wagon.js) is A Lightweight Javascript Library for Form Validation
 
 --------------------------------------------
 
