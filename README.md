@@ -64,7 +64,7 @@ You can import the script inside the body tag.
 
 Then just add "validate" attribute in your form tag
 ```html
-    <form action="" method="post" attribute>
+    <form action="" method="post" validate>
 ```
 
 ## Contributing
