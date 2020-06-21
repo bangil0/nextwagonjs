@@ -27,7 +27,7 @@
  </a>
 
  <a href="https://github.com/fauzan121002/nwjs">
-  <img src="http://hits.dwyl.com/fauzan121002/https://github.com/fauzan121002/freewiewjs.svg" alt="Open Collective">
+  <img src="http://hits.dwyl.com/fauzan121002/https://github.com/fauzan121002/nwjs.svg" alt="Open Collective">
  </a>
 </p>
 
