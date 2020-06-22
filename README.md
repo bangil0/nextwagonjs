@@ -3,31 +3,31 @@
 </p>
 
 
- # Nw.js (Next Wagon.js) is A Lightweight Javascript Library for Form Validation
+ # Next Wagon.js is A Lightweight Javascript Library for Form Validation
 
 --------------------------------------------
 
 <p align="center">
- <a href="https://github.com/fauzan121002/nwjs/LICENSE">
+ <a href="https://github.com/fauzan121002/nextwagonjs/LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="MIT License">
  </a>
 
- <a href="https://github.com/fauzan121002/nwjs">
-  <img src="https://img.shields.io/github/forks/fauzan121002/nwjs?style=flat-square" alt="MIT License">
+ <a href="https://github.com/fauzan121002/nextwagonjs">
+  <img src="https://img.shields.io/github/forks/fauzan121002/nextwagonjs?style=flat-square" alt="MIT License">
  </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/fauzan121002/nwjs/issues">
-  <img src="https://img.shields.io/github/issues/fauzan121002/nwjs?style=flat-square" alt="Open Collective">
+ <a href="https://github.com/fauzan121002/nextwagonjs/issues">
+  <img src="https://img.shields.io/github/issues/fauzan121002/nextwagonjs?style=flat-square" alt="Open Collective">
  </a>
 
- <a href="https://github.com/fauzan121002/nwjs">
-  <img src="https://img.shields.io/github/stars/fauzan121002/nwjs?style=flat-square" alt="Open Collective">
+ <a href="https://github.com/fauzan121002/nextwagonjs">
+  <img src="https://img.shields.io/github/stars/fauzan121002/nextwagonjs?style=flat-square" alt="Open Collective">
  </a>
 
- <a href="https://github.com/fauzan121002/nwjs">
-  <img src="http://hits.dwyl.com/fauzan121002/https://github.com/fauzan121002/nwjs.svg" alt="Open Collective">
+ <a href="https://github.com/fauzan121002/nextwagonjs">
+  <img src="http://hits.dwyl.com/fauzan121002/https://github.com/fauzan121002/nextwagonjs.svg" alt="Open Collective">
  </a>
 </p>
 
@@ -39,7 +39,7 @@
 * [License](#license)
 
 ## Usage
-You can see the example usage <a href="https://github.com/fauzan121002/nwjs/blob/master/examples/index.html">here</a>
+You can see the example usage <a href="https://github.com/fauzan121002/nextwagonjs/blob/master/examples/index.html">here</a>
 
 ### How to use
 You can import the script inside the body tag.
@@ -80,7 +80,7 @@ Then just add "validate" attribute in your form tag
 and also <b>textarea tag.</b> 
 
 ## Contributing
-You can create new pull requests <a href="https://github.com/fauzan121002/nwjs/pulls">here</a>
+You can create new pull requests <a href="https://github.com/fauzan121002/nextwagonjs/pulls">here</a>
 
 ## License
-This javascript library is published under <a href="https://github.com/fauzan121002/nwjs/blob/master/LICENSE">MIT License</a>
+This javascript library is published under <a href="https://github.com/fauzan121002/nextwagonjs/blob/master/LICENSE">MIT License</a>
