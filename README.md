@@ -53,12 +53,12 @@ You can import the script inside the body tag.
 </head>
 <body>
     <form action="" method="post">
-        <input error="wkwkw" id="testInput" type="text" placeholder="text">
+        <input id="testInput" type="text" placeholder="text">
         <span error="testInput"></span>
 
         <button type="submit">Login</button>
     </form>    
-    <script src="https://rawcdn.githack.com/fauzan121002/nwjs/1ed86edaf5ade72454d03dae3fad3d38baf44130/nw.js"></script>
+    <script src="https://rawcdn.githack.com/fauzan121002/nwjs/7c809ab9c946df252e9c410ee1018a8c24972076/nw.js"></script>
 </body>
 </html>
 ```
@@ -76,7 +76,7 @@ supported input type :
  * file
  * radio
  * number
-and also textarea.
+and also textarea tag.
 
 ## Contributing
 You can create new pull requests <a href="https://github.com/fauzan121002/nwjs/pulls">here</a>
