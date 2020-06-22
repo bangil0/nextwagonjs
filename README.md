@@ -58,7 +58,7 @@ You can import the script inside the body tag.
 
         <button type="submit">Login</button>
     </form>    
-    <script src="https://rawcdn.githack.com/fauzan121002/nwjs/7c809ab9c946df252e9c410ee1018a8c24972076/nw.js"></script>
+    <script src="https://gitcdn.xyz/repo/fauzan121002/nextwagonjs/master/nw.min.js"></script>
 </body>
 </html>
 ```
@@ -68,7 +68,7 @@ Then just add "validate" attribute in your form tag
     <form action="" method="post" validate>
 ```
 
-supported input type :
+#### Supported input type :
  * email
  * text
  * password
@@ -76,7 +76,8 @@ supported input type :
  * file
  * radio
  * number
-and also textarea tag.
+
+and also <b>textarea tag.</b> 
 
 ## Contributing
 You can create new pull requests <a href="https://github.com/fauzan121002/nwjs/pulls">here</a>
