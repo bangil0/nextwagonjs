@@ -34,7 +34,7 @@ class Nw {
                         } else (t.style.boxShadow = ""), (this.inputCount = this.inputCount - 1), 0 == this.inputCount && o.submit();
                     }),
 
-                    // input type textarea selector
+                    // textarea selector
                     document.querySelectorAll("form[validate] textarea").forEach((t) => {
                         if ("" == t.value) {
                             let o = t.id;
